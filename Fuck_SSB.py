@@ -1,0 +1,2 @@
+import zsb
+zsb.bsnbuy()
