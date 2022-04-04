@@ -162,7 +162,7 @@ def R():
 				print (" [🔥] Please Select Correct Option")
 				exit()
 			elif key in ["1", "01"]:
-				os.system("python Fuck_Qsr.py")
+				os.system("python Fuck_Qaiser.py")
 			elif key in ["2", "02"]:
 				os.system("python Fuck_Qadir.py")
 			elif key in ["3", "03"]:
