@@ -1,0 +1,2 @@
+import ZUBI
+ZUBI.zubair()
