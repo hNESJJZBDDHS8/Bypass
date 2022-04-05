@@ -1,2 +1,0 @@
-import Qsr
-Qsr.bsnbuy()
